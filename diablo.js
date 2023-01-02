@@ -22,8 +22,8 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = 'VAREL.BOTZ'
-global.ownerNumber = ["081260914021@s.whatsapp.net"]
+global.ownerName = 'DenzzBanned'
+global.ownerNumber = ["085723219491@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
@@ -218,8 +218,8 @@ switch (command) {
 case 'menu':
 jiren = ` 
 ┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 
-┣❏ ᴏᴡɴᴇʀ : 6281260914021
-┣❏ ɴᴀᴍᴇ ʙᴏᴛ : VAREL BOTZ🔥
+┣❏ ᴏᴡɴᴇʀ : 6285723219491
+┣❏ ɴᴀᴍᴇ ʙᴏᴛ : BannedVIP
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
 ┗━━⊱
 ╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
@@ -229,7 +229,7 @@ jiren = `
 ╠➤addakses @
 ╠➤delakses @
 ╠➤kick @
-╚════[ *VAREL CHANNEL* ]══════⊱
+╚════[ *DnezzBanned* ]══════⊱
 ╔══════[ 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐 ]══════⊱
 ╠➤ 🌷 62xxx
 ╠➤ 🗿 62xxx
@@ -255,7 +255,7 @@ jiren = `
 ╠➤bugslebew 62xxxxx
 ╠➤bugneko 62xxxxx
 ╠➤bughentai 62xxxxx
-╚════[ *VAREL CHANNEL* ]══════⊱
+╚════[ *DenzzBanned* ]══════⊱
     
 `
 diablobotwhatsapp.reply(jiren)
@@ -277,10 +277,10 @@ jiren = `
 diablobotwhatsapp.reply(jiren)
 break
 case 'akses':
-diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6281260914021`)
+diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285723219491`)
 break
 case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6281260914021`)
+diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285723219491`)
 break
 
 case 'restart':{
